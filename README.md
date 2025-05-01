@@ -32,7 +32,7 @@
     
 
 
-### Assignment 1: -  IT WILL RUN ON BOTH WINDOWS OR UBUNTU
+### Assignment 1: -  IT WILL RUN ON BOTH WINDOWS and UBUNTU
 
 Terminal 1:
 
@@ -86,14 +86,14 @@ Terminal 2:
 
   # First RUN the server open new terminal tab and RUN the client
   
-### Assignment 5: - IT WILL RUN ON BOTH WINDOWS OR UBUNTU
+### Assignment 5: - IT WILL RUN ON BOTH WINDOWS and UBUNTU
 
 Terminal
 
     javac Tring.java
     java Tring
 
-### Assignmnet 6:- T WILL RUN ON BOTH WINDOWS OR UBUNTU
+### Assignmnet 6:- T WILL RUN ON BOTH WINDOWS and UBUNTU
 
 Terminal
 
