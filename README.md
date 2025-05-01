@@ -9,7 +9,6 @@
 |[Assignment 5](Assign5)| Implement token ring based mutual exclusion algorithm.|
 |[Assignment 6](Assign6)| Implement Bully and Ring algorithm for leader election.|
 |[Assignment 7](Assign7)| Create a simple web service and write distributed application(calculator) to consume the Web Service.|
-|[Extra](Sockets)| Develop any distributed application for implementing client-server communication programs based on Java Sockets.|
 
 ## Execution Steps
 
