@@ -32,7 +32,7 @@
     
 
 
-### Assignment 1:
+### Assignment 1: -  IT WILL RUN ON BOTH WINDOWS OR UBUNTU
 
 Terminal 1:
 
@@ -51,7 +51,7 @@ Terminal 4:
 
     java AddClient 127.0.0.1 5 8
 
-### Assignment 2:
+### Assignment 2:  - UBUNTU
 
 Terminal 1:
 
@@ -64,7 +64,7 @@ Terminal 2:
 
     java ReverseClient -ORBInitialPort 1056 -ORBInitialHost localhost
 
-### Assignment 3:
+### Assignment 3: UBUNTU
 
 Terminal:
 
@@ -73,25 +73,27 @@ Terminal:
     javac -cp $MPJ_HOME/lib/mpj.jar ArrSum.java
     $MPJ_HOME/bin/mpjrun.sh -np 4 ArrSum
 
-### Assignment 4:
+### Assignment 4: WINDOWS
 
 Terminal 1:
 
-    python client.py
+    python server.py
 
 
 Terminal 2:
 
-    python server.py
+    python client.py
 
-### Assignment 5:
+  # First RUN the server open new terminal tab and RUN the client
+  
+### Assignment 5: - IT WILL RUN ON BOTH WINDOWS OR UBUNTU
 
 Terminal
 
     javac Tring.java
     java Tring
 
-### Assignmnet 6:
+### Assignmnet 6:- T WILL RUN ON BOTH WINDOWS OR UBUNTU
 
 Terminal
 
